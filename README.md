@@ -8,7 +8,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Vini-image" src="https://i.imgur.com/wDcZsQf.png" width="152px" height="152px">
+  <img align="right" alt="Vini-image" src="https://i.imgur.com/yAk75lJ.png" width="152px" height="152px">
 
 </div>
   
@@ -19,7 +19,7 @@
    Moreover I am video editor. Softwares that I work with:<br><br>
    <img align="center" alt="Vini-AfterFX" height="43" width="69" src="https://1000logos.net/wp-content/uploads/2020/07/After-Effects-Logo.png">
    <img align="center" alt="Vini-Premiere" height="43" width="44" src="https://pt.wizcase.com/wp-content/uploads/2020/12/Adobe-Premiere-Pro-Logo.png" /><br><br>
-   <img align="right" src="https://c.tenor.com/ajYNV_DJ5nEAAAAC/typewriter-end.gif">
+   <a href="https://www.saturno6studio.com.br"> <img align="center" alt="Saturno-Git-Banner" height="150" width="1000" src="https://i.imgur.com/xQvxzBH.png">
 
   
 </div>
