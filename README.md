@@ -8,13 +8,13 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-JS" height="30" width="40" ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Vini-image" src="https://i.imgur.com/yAk75lJ.png" width="152px" height="152px">
+  <img align="right" alt="Vini-image" src="https://i.imgur.com/yAk75lJ.png" width="152px" height="152px"><br><br>
 
 </div>
   
   ##
   
-  <br><br><a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="900" width="847" src="https://i.imgur.com/Q44W3Um.png">
+  <a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="900" width="847" src="https://i.imgur.com/Q44W3Um.png">
 
   
   ##
