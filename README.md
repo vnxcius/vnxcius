@@ -19,7 +19,7 @@
    Moreover I am video editor. Softwares that I work with:<br><br>
    <img align="center" alt="Vini-AfterFX" height="43" width="69" src="https://1000logos.net/wp-content/uploads/2020/07/After-Effects-Logo.png">
    <img align="center" alt="Vini-Premiere" height="43" width="44" src="https://pt.wizcase.com/wp-content/uploads/2020/12/Adobe-Premiere-Pro-Logo.png" /><br><br>
-   <a href="https://www.saturno6studio.com.br"> <img align="center" alt="Saturno-Git-Banner" height="150" width="1000" src="https://i.imgur.com/xQvxzBH.png">
+   <a href="https://www.saturno6studio.com.br"> <img align="center" alt="Saturno-Git-Banner" height="127.5" width="847" src="https://i.imgur.com/xQvxzBH.png">
 
   
 </div>
