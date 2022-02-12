@@ -18,11 +18,10 @@
   <h3>Audiovisual</h3>
    Moreover I am video editor. Softwares that I work with:<br><br>
   
-   <img align="left" alt="Vini-AfterFX" height="43" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"><i>After Effects</i><br><br> 
-   <img align="left" alt="Vini-Premiere" height="43" width="44" src="https://pt.wizcase.com/wp-content/uploads/2020/12/Adobe-Premiere-Pro-Logo.png" /><i>Premiere Pro</i><br><br>
-   <img align="left" alt="Vini-Audition" height="43" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1051px-Adobe_Audition_CC_icon_%282020%29.svg.png"><i>Audition</i><br><br>
-  
-   <a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="127.5" width="847" src="https://i.imgur.com/xQvxzBH.png">
+   <img align="left" alt="Vini-AfterFX" height="43" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png">
+   <img align="left" alt="Vini-Premiere" height="43" width="44" src="https://pt.wizcase.com/wp-content/uploads/2020/12/Adobe-Premiere-Pro-Logo.png"/>
+   <img align="left" alt="Vini-Audition" height="43" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1051px-Adobe_Audition_CC_icon_%282020%29.svg.png"><br><br>
+    <a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="127.5" width="847" src="https://i.imgur.com/xQvxzBH.png">
 
   
 </div>
