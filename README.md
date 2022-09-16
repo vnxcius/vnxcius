@@ -10,6 +10,8 @@
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Vini-Perfil" height="108" width"108" src="https://i.imgur.com/9HRjV6K.png">
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
   ##
@@ -26,7 +28,6 @@
   <a href="https://www.linkedin.com/in/vnxcius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/channels/@me/nippy#6941/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/vnxcius/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
- 
   
  
 </div>
