@@ -14,9 +14,9 @@
 
 </div>
   
-  ##
+  <!--##
   
-  <br><br><br><br><br><a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="900" width="847" src="https://i.imgur.com/Q44W3Um.png">
+   <br><br><br><br><br><a href="https://www.saturno6studio.com.br"><img align="center" alt="Saturno-Git-Banner" height="900" width="847" src="https://i.imgur.com/Q44W3Um.png"> -->
 
   
   ##
@@ -24,9 +24,9 @@
   <div> 
   
   <a href="https://www.instagram.com/vini_html/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vsgh10@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vnxcius@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vnxcius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/channels/@me/nippy#6941/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/channels/@me/Vini#0420/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/vnxcius/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
  
