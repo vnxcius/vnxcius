@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vnxcius&custom_title=Github%20Stats&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnxcius&theme=github_dark&hide_border=true&exclude_repo=oBebe-p5.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnxcius&theme=github_dark&hide_border=true&count_private=true&exclude_repo=oBebe-p5.js">
 </a>
 
 
