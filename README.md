@@ -1,9 +1,7 @@
 ### Bem vindo(a) ao meu perfil!
 ##
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnxcius&theme=github_dark&hide_border=true&count_private=true&hide=CSS&langs_count=10&layout=donut&exclude_repo=oBebe-p5.js">
-</a>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vnxcius/langs?time_range=one_year&include_private=True&compact=True&theme=dark&)](https://githubtrends.io)
 
 
 <div style="display: inline_block"><br>
