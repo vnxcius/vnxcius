@@ -1,29 +1,83 @@
-### Bem vindo(a) ao meu perfil!
-##
+<h3 align="center">"Ideas are bulletproof." - V</h3>
+&nbsp;
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vnxcius/langs?time_range=one_year&include_private=True&compact=True&theme=dark&)](https://githubtrends.io)
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vini-PHP" height="30" width="49"
-  src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Vini-PHP" height="30" width="55"
-  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg">
-  <img align="right" alt="Vini-Perfil" height="108" width"108" src="https://i.imgur.com/9HRjV6K.png">
-
+<div align="center" style="width: fit-content; margin: 3rem auto;">
+  <h3 style="text-align: center;">💻 Stack</h3>
+  <div style="display: flex; align-items: center;">
+    <img alt="golang icon" width="40" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+    <img alt="react icon" width="20" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+    <img alt="tailwind icon" width="25" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+    <img alt="typescript logo" width="20" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+    <img alt="php icon" width="29" height="20" draggable="false"
+      src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
+    <img alt="docker icon" width="25" height="25" draggable="false"
+      src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" />
+    <img alt="laravel icon" width="20" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+    <img alt="postgresql icon" width="20" height="30" draggable="false"
+    src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+    <img alt="mysql icon" width="45" height="30" draggable="false"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />
+  </div>
 </div>
+&nbsp;
+
+<div>
+  <h3>🇧🇷 Sobre</h3>
+  <p>
+    Oi :D Me chamo Vinícius Simon e sou dev full-stack freelancer e um grande fã de Zelda. Seja bem-vindo(a) ao meu perfil, aqui você poderá encontrar meus projetos pessoais.<br>
+    Sinta-se a vontade para explorar meus repositórios e interagir.
+  </p>
+  &nbsp;
   
-  ##
+  <h3>Alguns dos projetos que já trabalhei:</h3>
+  <ul>
+    <li>
+      <a href="https://medellincompany.com.br" target="_blank">Medellin Original Company</a>
+    </li>
+    <li>
+      <a href="https://jvlf.site" target="_blank">jvlf.site</a>
+      </li>
+  </ul>
+  &nbsp;
   
-<div> 
-  
-  <a href="https://www.instagram.com/vini_html/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vnxcius@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-simon-gouveia-hilton/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/vnxcius/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  
- 
+  <p>
+    Conheça meu website portfólio: <a href="https://vinisimon.dev" target="_blank">vinisimon.dev</a>
+  </p>
 </div>
+
+---
+&nbsp;
+<div>
+  <h3>🇺🇸 About</h3>
+  <p>
+    Hi :D I am Vinícius Simon and I'm a freelance full-stack dev and a great Zelda fan. Be welcome to my profile, here you can find my personal projects.<br>
+    Feel free to explore my repositories and interact.
+  </p>
+  &nbsp;
+
+  <h3>Some of the projects that I've worked with:</h3>
+  <ul>
+    <li>
+      <a href="https://medellincompany.com.br" target="_blank">Medellin Original Company</a>
+    </li>
+    <li>
+      <a href="https://jvlf.site" target="_blank">jvlf.site</a>
+    </li>
+  </ul>
+  &nbsp;
+  
+  <p>
+    Visit my portfolio website: <a href="https://vinisimon.dev" target="_blank">vinisimon.dev</a>
+  </p>
+</div>
+&nbsp;
+
+<p align="center">
+  <span>&copy; 2024</span>
+  <a href="https://vinisimon.dev" target="_blank">Vinícius S. G. Hilton.</a>
+</p>
