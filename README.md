@@ -46,7 +46,7 @@
   &nbsp;
   
   <p>
-    Conheça meu website portfólio: <a href="https://vinisimon.dev" target="_blank">vinisimon.dev</a>
+    Conheça meu website portfólio: <a href="https://vncius.dev" target="_blank">vncius.dev</a>
   </p>
 </div>
 
@@ -72,12 +72,12 @@
   &nbsp;
   
   <p>
-    Visit my portfolio website: <a href="https://vinisimon.dev" target="_blank">vinisimon.dev</a>
+    Visit my portfolio website: <a href="https://vncius.dev" target="_blank">vncius.dev</a>
   </p>
 </div>
 &nbsp;
 
 <p align="center">
   <span>&copy; 2024</span>
-  <a href="https://vinisimon.dev" target="_blank">Vinícius S. G. Hilton.</a>
+  <a href="https://vncius.dev" target="_blank">Vinícius S. G. Hilton.</a>
 </p>
